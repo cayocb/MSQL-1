@@ -148,7 +148,7 @@ Depois de executar o comando, para verificar se foi mesmo concluido
   Você quer ver como funciona a estrutura interna da tabela?
   -
   basta ir em baixo e colocar **describe pessoas;**
-  <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F83CAA6D8-C49A-488F-AF07-7C9403A1D6F2.jpeg?v=1600003246526>
+  <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F83CAA6D8-C49A-488F-AF07-7C9403A1D6F2.jpeg?v=1600003246526">
  
  e executar o comando, depois disso ele vai abrir a estrutura da tabela pessoas
  
