@@ -102,20 +102,20 @@ Isso tudo tem nome:
 
 
 **Agora, irei desmotrar screenshots**
-<img src= "https://prnt.sc/ughka1">
+<img src= "https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F53030673-4E7F-43B8-A444-F179C720268F.jpeg?v=1600002751052">
 Feito isso, para executar o comando
-<img src="http://prnt.sc/ughl1h">
+<img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F6207AF32-209C-4DEE-99F0-3BB6545AAD84.jpeg?v=1600002784870">
 
 Depois de executar o comando, para verificar se foi mesmo concluido
- <img src="http://prnt.sc/ughm96">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F653BAA68-1ECB-4778-B2A8-7A7CEAA97EAC.jpeg?v=1600002820656">
  Agora é so atualizar os esquemas
- <img src="http://prnt.sc/ughn5t">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2FD1241F38-CD8E-4E39-ACBE-538143F921E9.jpeg?v=1600002843011">
  Agora vamos verificar o banco que criamos
- <img src="http://prnt.sc/ugho29">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F89EF190A-A351-4C52-8F69-C1238D0F9004.jpeg?v=1600002873124">
  Viu que tem lá as tabelas como dito anteriormente no exemplo.
  
  **Para criar a tabela**
- <img src="http://prnt.sc/ughpe6">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F4322DB7D-070D-445B-B526-ECBB6EE0D9FD.jpeg?v=1600002925637">
  Dentro do comando **CREATE TABLE**
  nós vamos colocar:
  Nome 
@@ -126,33 +126,33 @@ Depois de executar o comando, para verificar se foi mesmo concluido
  Nacionalidade
  
  - Deste jeito
- <img src="http://prnt.sc/ughqps">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F22B8182B-FF05-437C-935B-71FBAF2BFAF6.jpeg?v=1600002964616">
  
  
  ***Tipos primitivos***
- <img src="http://prnt.sc/ughs6s">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F33B2A754-9771-4315-A28A-F812B881D496.jpeg?v=1600003007051">
  *Iremos falar mais sobre na proxima aula*
  
  Meu exemplo:
  coloque o comando **use cadastro;**
  em cadastro meta o nome do seu banco de dados
  e execute o comando, depois
- <img src="http://prnt.sc/ughs6s">
+
  
  Agora atualize os esquemas
  
  - Como pode ver agora temos a tabela " pessoas "
  e tem as seguintes colunas
- <img src="http://prnt.sc/ughufe">
+ <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F8645C0A8-5FE3-4906-995E-6435AE0EAFA7.jpeg?v=1600003083421">
   
   Você quer ver como funciona a estrutura interna da tabela?
   -
   basta ir em baixo e colocar **describe pessoas;**
-  <img src="http://prnt.sc/ughufel>
+  <img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F83CAA6D8-C49A-488F-AF07-7C9403A1D6F2.jpeg?v=1600003246526>
  
  e executar o comando, depois disso ele vai abrir a estrutura da tabela pessoas
  
-<img src="http://prnt.sc/ughwwp">
+<img src="https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2F512AF604-D594-4B1C-9DE0-ACC8FB133E9C.jpeg?v=1600003276574">
 
 ```
 E assim terminamos a nossa segunda aula,
