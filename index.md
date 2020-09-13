@@ -26,7 +26,7 @@ para ver se o MYSQL esta realmente funcionando.
 
 *Se você seguiu tudo direito até aqui, para testar o status do sistema
 digite status na console*
-Caso mostrar informação é sinal que esta funcioando sem problema nenhum.
+Caso mostrar informação é sinal que esta funcionando sem problema nenhum.
 
 
 Para programar a Database de forma agradevel e util, iremos usar a Workabench
