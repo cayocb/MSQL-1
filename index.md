@@ -102,7 +102,70 @@ Isso tudo tem nome:
 
 
 **Agora, irei desmotrar screenshots**
+<img src= "https://prnt.sc/ughka1">
+Feito isso, para executar o comando
+<img src="http://prnt.sc/ughl1h">
 
+Depois de executar o comando, para verificar se foi mesmo concluido
+ <img src="http://prnt.sc/ughm96">
+ Agora é so atualizar os esquemas
+ <img src="http://prnt.sc/ughn5t">
+ Agora vamos verificar o banco que criamos
+ <img src="http://prnt.sc/ugho29">
+ Viu que tem lá as tabelas como dito anteriormente no exemplo.
+ 
+ **Para criar a tabela**
+ <img src="http://prnt.sc/ughpe6">
+ Dentro do comando **CREATE TABLE**
+ nós vamos colocar:
+ Nome 
+ Idade 
+ Sexo
+ Peso
+ Altura
+ Nacionalidade
+ 
+ - Deste jeito
+ <img src="http://prnt.sc/ughqps">
+ 
+ 
+ ***Tipos primitivos***
+ <img src="http://prnt.sc/ughs6s">
+ *Iremos falar mais sobre na proxima aula*
+ 
+ Meu exemplo:
+ coloque o comando **use cadastro;**
+ em cadastro meta o nome do seu banco de dados
+ e execute o comando, depois
+ <img src="http://prnt.sc/ughs6s">
+ 
+ Agora atualize os esquemas
+ 
+ - Como pode ver agora temos a tabela " pessoas "
+ e tem as seguintes colunas
+ <img src="http://prnt.sc/ughufe">
+  
+  Você quer ver como funciona a estrutura interna da tabela?
+  -
+  basta ir em baixo e colocar **describe pessoas;**
+  <img src="http://prnt.sc/ughufel>
+ 
+ e executar o comando, depois disso ele vai abrir a estrutura da tabela pessoas
+ 
+<img src="http://prnt.sc/ughwwp">
+
+```
+E assim terminamos a nossa segunda aula,
+Mais para afrente iremos melhorar o nosso banco de dados
+```
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
