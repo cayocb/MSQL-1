@@ -37,3 +37,78 @@ o painel vai abrir.
 
 * Qualquer duvida meu email: gdgamerbrbet@gmail.com
 * Meu discord: Cayo#0002
+
+
+
+
+
+
+-
+# Criando Banco de dados
+Nome
+Nacionalidade
+Peso
+Idade
+
+- Instancias 
+Utilizando esse padrão você basicamente pode registrar
+qualquer tipo de pessoa, porque elas todas vão ter as mesmas
+carecteriscas **(Não os valores)**
+
+Agora vamos pegar uma caixa e colocar essas todas pessoas nele, nessa caixa vamos escrever no lado de fora " PESSOAS ".
+
+Como se fosse um arquivo, e nesse arquivo todos ficheiros nele vão ter varias instacias com as mesmas casteriscas demostrado acima.
+
+Você pode criar caixas diferentes para coisas diferentes
+por exemplo:
+
+Eu posso ter uma caixa chamada " JOGOS " aonde eu vou colocar
+todas casteriscas de jogos. Pessoas e jogos são coisas diferentes esta entendendo? Por isso posso impor casteriscas diferentes, por conta disso têem que estar em caixas diferentes.
+
+Nessa caixa jogos, vou colocar varios jogos que cada um tem suas propias casteriscas como:
+Titulo
+Fabricante
+Genero
+Plataforma
+
+e tudo mais..
+
+`Basicamente nós vamos agrupar coisas com casteriscas semelhantes, e separar coisas com casteriscas diferentes e essas coisas que tem casteriscas diferentes eu viu agrupar entre elas.`
+
+*Agora vamos pegar essas duas caixas e colocae dentro de uma
+carrinha.*
+
+Isso tudo tem nome:
+ - a carrinha é o meu banco de dados
+ _O banco de dados são coleções de dados que são de casteriscas separadas, mas que estão organizadas em locais
+ especificos esses locais especificos chamam-se tabelas._
+ 
+ - a caixa é uma tabela
+ _Tabelas guardam dados de coisas que tem casteriscas semelhantes, e se eu quiser posso ter varias tabelas dentro do mesmo banco de dados_
+ 
+ -- Os dados que estão dentro da tabela tambem tem um nome especifico, chamam-se registros
+ 
+ Resumindo, banco de dados são um conjunto de tabelas e tabelas são um conjunto de registros.
+ 
+ 
+ # Criação do banco de dados
+ Para criar o seu banco de dados no MSQL, basta dar o comado
+ 
+ - CREATE DATABASE **NOME-DO-BANCO**;
+ *no meu caso eu vou chamad de cadastro*
+ 
+ Agora vamos para o MSQL WebBench que instalamos na #1
+ lembrando que inicie o WAMP(SERVER) primeiro, espere que o W fique verde. 
+
+
+**Agora, irei desmotrar screenshots**
+
+ 
+ 
+ 
+ 
+
+
+
+
+
